@@ -17,4 +17,3 @@ map("n", "<C-n>", "<cmd>nohl<CR>", { desc = "disable search highlighting" })
 
 map("i", "jk", "<ESC>")
 
--- map({ "n", "i", "v" }, "<C-s>", "<cmd> w <cr>")
